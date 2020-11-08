@@ -9,7 +9,7 @@
 	
 	</style>
 	</head>
-	<body>
+	<body onload="function();">
 	<center>
 	<form onsubmit= "return false">
 	<h1>Which avtaar goes to your name?</h1>
